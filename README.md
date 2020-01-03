@@ -1,2 +1,2 @@
 # my-aws-portfolio
-Professional portfolio, using learnings from acloudguru
+This is my professional portfolio. It uses AWS and ReactJS.
